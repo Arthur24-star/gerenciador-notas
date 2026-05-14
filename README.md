@@ -46,7 +46,7 @@ Exemplo:
 
 ```bash
 cd Documentos/gerenciador_notas
-
+```
 
 Como Executar os Testes
 
