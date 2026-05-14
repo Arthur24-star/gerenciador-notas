@@ -60,7 +60,7 @@ ou
 ``` bash
 py test_notas.py
 ```
-Objetivo Acadêmico
+## Objetivo Acadêmico
 
 Este projeto foi desenvolvido como atividade prática da disciplina de Programação de Computadores, com foco em:
 
@@ -70,6 +70,7 @@ documentação;
 controle de fluxo;
 manipulação de estruturas de dados;
 validação de sistemas.
-Autor
+
+## Autor
 
 Arthur
