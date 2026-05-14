@@ -48,15 +48,18 @@ Exemplo:
 cd Documentos/gerenciador_notas
 ```
 
-Como Executar os Testes
+## Como Executar os Testes
 
 Para executar os testes do sistema, utilize:
 
-python test_notas.py
-
+```bash
+ python test_notas.py
+```
 ou
 
+``` bash
 py test_notas.py
+```
 Objetivo Acadêmico
 
 Este projeto foi desenvolvido como atividade prática da disciplina de Programação de Computadores, com foco em:
