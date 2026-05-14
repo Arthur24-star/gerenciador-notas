@@ -28,7 +28,7 @@ O objetivo principal da aplicação é aplicar conceitos fundamentais de program
 ## Estrutura do Projeto
 
 - `gerenciador_notas.py` → arquivo principal do sistema
-- `testes.py` → arquivo contendo os testes do sistema
+- `test_notas.py` → arquivo contendo os testes do sistema
 
 ---
 
@@ -45,4 +45,28 @@ Abra o terminal do VS Code ou do sistema operacional.
 Exemplo:
 
 ```bash
-cd Documentos/python
+cd Documentos/gerenciador_notas
+
+
+Como Executar os Testes
+
+Para executar os testes do sistema, utilize:
+
+python test_notas.py
+
+ou
+
+py test_notas.py
+Objetivo Acadêmico
+
+Este projeto foi desenvolvido como atividade prática da disciplina de Programação de Computadores, com foco em:
+
+modularização;
+boas práticas de programação;
+documentação;
+controle de fluxo;
+manipulação de estruturas de dados;
+validação de sistemas.
+Autor
+
+Arthur
